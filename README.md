@@ -13,23 +13,17 @@ I'm a **MERN Stack Developer** passionate about building real-world web applicat
 ---
 
 ## 🛠️ Tech Stack
-**Frontend**
-- React
-- HTML5
-- CSS3
-- JavaScript (ES6+)
 
-**Backend**
-- Node.js
-- Express.js
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
-**Database**
-- MongoDB
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 ---
 
